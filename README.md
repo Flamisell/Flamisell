@@ -3,7 +3,7 @@
 
 ### About Me :it:
 - :shipit: I’m currently working at ABB-E Mobility as an R&D Robotics Engineer.
-- 🦉: I have a double MSc in Automation Control and Robotics Engineering at PoliMI and UPC.
+- 🦉: I have a double MSc in Automation Control and Robotics Engineering at PoliMi and UPC.
 - :space_invader: I'm interested in Robotics of all sorts!
 
 
