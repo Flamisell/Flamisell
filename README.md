@@ -1,16 +1,17 @@
-## Hi there 👋
+## Welcome to my GitHub!
 
-<!--
-**Flamisell/Flamisell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me :it:
+- :shipit: I’m currently working at ABB-E Mobility as an R&D Robotics Engineer.
+- 🦉: I have a double MSc in Automation Control and Robotics Engineering at PoliMI and UPC.
+- :space_invader: I'm interested in Robotics of all sorts!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am trying to give my little contribution to the robotics community.
+
+If you are studying/interested in Stewart Platforms you are in the right place (for now)!
+
+Feel free to reach me out (:
+
+
+- [LinkedIn](https://www.linkedin.com/in/marco-giacchetti/)
