@@ -11,7 +11,3 @@ I am trying to give my little contribution to the robotics community.
 
 If you are studying/interested in Stewart Platforms you are in the right place (for now)!
 
-Feel free to reach me out (:
-
-
-- [LinkedIn](https://www.linkedin.com/in/marco-giacchetti/)
